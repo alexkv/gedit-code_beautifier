@@ -1,0 +1,11 @@
+[Gedit Plugin]
+Loader=python
+Module=code_beautifier
+IAge=2
+Name=Code Beautifier
+Name[ru]=Code Beautifier
+Description=Plugin for formatting source code
+Description[ru]=Плагин для форматирования исходного кода
+Authors=Aleksei Kvitinskii
+Copyright=Copyright @ 2010 Aleksei Kvitinskii
+Website=http://github.com/Axy/gedit-code_beautifier
