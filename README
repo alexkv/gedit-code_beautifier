@@ -1,0 +1,11 @@
+Plugin for formatting source code (Ruby, PHP, C, C++, Java). 
+
+Installation of the plugin:
+	1. copy files to folder /.gnome2/gedit/
+	2. run in console: chmod +x ~/.gnome2/gedit/plugins/code_beautifier/astyle 
+
+This module uses external tools:
+	to format ruby  "Ruby Script Beautifier" (http://www.arachnoid.com/ruby/rubyBeautifier.html)
+	to format PHP, C, C++, Java astyle "Artistic Style 1.24" (http://astyle.sourceforge.net/)
+	
+The last one requires compilation, so possibly you should recompile it. In this case simply replace file ~/.gnome2/gedit/plugins/code_beautifier/astyle
